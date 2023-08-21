@@ -1,7 +1,10 @@
+![imagen cat](./cat.gif)
+
 - 👋 Hi, I’m Stiven Quiroz
 - 👀 I’m frontend developer in Reactjs and mobile developer in React native ...
 - 🌱 I’m currently working in Academlo ...
-  [imagen cat](./cat.gif)
+  
+  
 
 <!---
 bsquiroz/bsquiroz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
